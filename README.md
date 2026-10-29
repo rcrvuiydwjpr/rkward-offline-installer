@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Statistical+Analysis-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Statistics-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 RKWard Free Installer** — RKWard is a free, open-source GUI frontend for the R statistical programming language for Windows and Linux. Works without internet access, no account required. Full offline installation.
+**💻 RKWard Free Installer** — RKWard is a free, open-source graphical frontend for the R statistical programming language. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About RKWard
 
-RKWard is a free, open-source GUI frontend for the R statistical programming language for Windows and Linux. Perform statistical analyses through menus and dialogs rather than command-line R code, while generating reusable R scripts from GUI actions. RKWard bridges the gap between GUI-based statistics tools and R's full analytical power, making R accessible to researchers who prefer visual interfaces.
+RKWard is a free, open-source graphical frontend for the R statistical programming language. It provides a point-and-click interface for common statistical analyses, a script editor, output viewer, and plugin system — making R accessible to non-programmers.
 
 ---
 
 ## ❌ Problem: RKWard is hard to access
 
-- **Linux Primary** — Windows support secondary; Linux version most polished
-- **R Dependency** — Requires R installation to function
-- **Feature Coverage** — Not all R statistical packages accessible through GUI
-- **Development Pace** — Update cadence moderate for open-source project
+- **R Dependency** — Requires R installation; adds setup complexity
+- **Limited Advanced R** — Complex R workflows still require programming knowledge
+- **Linux-Primary** — Windows version less stable and polished
+- **Dated Interface** — UI design reflects older KDE desktop aesthetics
 
 ---
 
@@ -121,7 +121,7 @@ RKWard is a free, open-source GUI frontend for the R statistical programming lan
 
 ---
 
-**RKWard Free Installer** — RKWard is a free, open-source GUI frontend for the R statistical programming language for Windows and Linux. Install without internet connection today!
+**RKWard Free Installer** — RKWard is a free, open-source graphical frontend for the R statistical programming language. Install without internet connection today!
 
 <div align="center">
 
